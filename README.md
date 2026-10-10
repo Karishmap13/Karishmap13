@@ -1,7 +1,7 @@
 ## Hi, I’m Karishma 👋
 </markdown>
 
-**Health Informatics Graduate | Clinical Data Analyst | Bridging Medicine & Analytics**
+**Health Informatics Graduate |  Bridging Medicine, Data & Artificial Intelligence**
 
 </markdown>
 
@@ -13,7 +13,7 @@ I enjoy transforming complex healthcare datasets into structured, meaningful, an
 
 💼 **How I add value:**
 - **Analytics & Programming:**
-SQL • Python (Pandas, NumPy, Matplotlib) • R • SAS
+SQL • Python (Pandas, NumPy, Matplotlib) • R • SAS • Artificial Intelligence
 - **Visualization & Reporting:**
 Tableau • Power BI • Advanced Excel
 - **Healthcare Context:**
