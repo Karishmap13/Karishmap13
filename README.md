@@ -5,7 +5,7 @@
 
 </markdown>
 
-I started my career in medicine. Over time, I became increasingly curious about the systems behind patient care - the patterns in outcomes, the variation in costs, the decisions shaped by data. That curiosity led me to pivot into health informatics and healthcare data analytics.
+I started my career in medicine. Gradually became interested about the systems behind patient care - the patterns in outcomes, the variation in costs, the decisions shaped by data. That curiosity led me to pivot into healthcare analytics.
 
 Today, I approach healthcare data with both clinical context and analytical rigor. Before I write a query, I ask why; why this variable, why this trend, why this outcome? My clinical training shapes how I interpret data, define cohorts, and think about the real-world impact of analytical decisions.
 
